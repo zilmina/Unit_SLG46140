@@ -8,7 +8,6 @@ import spidev
 
 # We only have SPI bus 0 available to us on the Pi
 bus = 0
-
 #Device is the chip select pin. Set to 0 or 1, depending on the connections
 device = 1
 
